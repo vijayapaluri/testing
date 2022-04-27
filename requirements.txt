@@ -1,0 +1,11 @@
+
+numpy
+pandas
+matplotli
+scikit-learn
+keras
+tensorflow-cpu==2.5.0
+streamlit
+statsmodel
+selenium
+webdriver-manager
